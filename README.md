@@ -1,3 +1,5 @@
+> **BigO-Hunter fork notice.** This org's copy of [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4), kept as a **dependency pin**: every Lean proof in this org pins Mathlib at `d13f23b723b8…` (stated in each submission's README), and this mirror documents that pin's source. Upstream's README and license (Apache-2.0) below are unchanged. Upstream is listed in the org story under 'Upstreams & projects we work with': [org profile](https://github.com/BigO-Hunter/.github).
+
 # mathlib4
 
 ![GitHub CI](https://github.com/leanprover-community/mathlib4/actions/workflows/build.yml/badge.svg?branch=master)
